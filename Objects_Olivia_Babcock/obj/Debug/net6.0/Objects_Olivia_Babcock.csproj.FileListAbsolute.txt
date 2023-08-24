@@ -1,0 +1,14 @@
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\bin\Debug\net6.0\Objects_Olivia_Babcock.exe
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\bin\Debug\net6.0\Objects_Olivia_Babcock.deps.json
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\bin\Debug\net6.0\Objects_Olivia_Babcock.runtimeconfig.json
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\bin\Debug\net6.0\Objects_Olivia_Babcock.dll
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\bin\Debug\net6.0\Objects_Olivia_Babcock.pdb
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\Objects_Olivia_Babcock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\Objects_Olivia_Babcock.AssemblyInfoInputs.cache
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\Objects_Olivia_Babcock.AssemblyInfo.cs
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\Objects_Olivia_Babcock.csproj.CoreCompileInputs.cache
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\Objects_Olivia_Babcock.dll
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\refint\Objects_Olivia_Babcock.dll
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\Objects_Olivia_Babcock.pdb
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\Objects_Olivia_Babcock.genruntimeconfig.cache
+C:\Users\OliviaBabcock\source\repos\Objects_Olivia_Babcock\Objects_Olivia_Babcock\obj\Debug\net6.0\ref\Objects_Olivia_Babcock.dll
